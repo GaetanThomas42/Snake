@@ -8,6 +8,6 @@ To play, use your command line invit, go to the Snake repository ( cd SNAKE_REPO
 
 1) cd SNAKE_REPOSITORY
 
-2 )PYTHON.EXE_PATH Snake.py
+2) PYTHON.EXE_PATH Snake.py
 
 ![alt text](http://f.angiva.re/hNc2D)
